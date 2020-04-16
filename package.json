@@ -1,0 +1,19 @@
+{
+  "name": "git-teste",
+  "version": "1.0.0",
+  "description": "Primeiro programa node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafaelam10/git-teste.git"
+  },
+  "author": "Rafaela de Matos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafaelam10/git-teste/issues"
+  },
+  "homepage": "https://github.com/Rafaelam10/git-teste#readme"
+}
